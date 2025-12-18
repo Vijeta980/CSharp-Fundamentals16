@@ -46,6 +46,17 @@
     <Compile Include="01_Introduction\HelloWorld.cs" />
     <Compile Include="02_PrimitiveTypes\Variables.cs" />
     <Compile Include="03_NonPrimitiveTypes\Arrays.cs" />
+    <Compile Include="04_ConditionalStatements\booleanWays.cs" />
+    <Compile Include="04_ConditionalStatements\Conditions.cs" />
+    <Compile Include="04_ConditionalStatements\Sw2.cs" />
+    <Compile Include="04_ConditionalStatements\SwitchCases.cs" />
+    <Compile Include="05_Loops\ForEach.cs" />
+    <Compile Include="05_Loops\ForLoops.cs" />
+    <Compile Include="05_Loops\WhileLoop.cs" />
+    <Compile Include="PracticeQue1\Prog1.cs" />
+    <Compile Include="PracticeQue1\Prog2.cs" />
+    <Compile Include="PracticeQue1\Prog3.cs" />
+    <Compile Include="PracticeQue1\Prog4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

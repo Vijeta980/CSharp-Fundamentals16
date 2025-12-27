@@ -8,6 +8,7 @@ using CSharp_Fundamentals._05_Loops;
 using CSharp_Fundamentals.PracticeQue1;
 using CSharpFundamentals._07_StringsBasic;
 using System;
+using CSharpFundamentals._08_DateTime;
 
 namespace CSharp_Fundamentals
 {
@@ -15,8 +16,10 @@ namespace CSharp_Fundamentals
     {
         static void Main(string[] args)
         {
-            WhileLoop.loop3();
-            StringBasic.Run();
+            //WhileLoop.loop3();
+            //StringBasic.Run();
+            //Datetime.Run();
+            Timespan.Run();
             Console.ReadLine();
         }
     }

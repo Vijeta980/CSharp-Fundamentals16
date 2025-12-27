@@ -8,12 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="08_DateTime\" />
     <Folder Include="09_FileHandling\" />
     <Folder Include="10_ClassesAndObjects\" />
     <Folder Include="11_Inheritance\" />
     <Folder Include="12_Interfaces\" />
     <Folder Include="13_ExceptionHandling\" />
+    <Folder Include="Properties\" />
   </ItemGroup>
 
 </Project>

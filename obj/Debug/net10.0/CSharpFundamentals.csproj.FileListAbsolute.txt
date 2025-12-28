@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\net10.0\CSharpFundamentals.exe
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\net10.0\CSharpFundamentals.deps.json
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\net10.0\CSharpFundamentals.runtimeconfig.json
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\net10.0\CSharpFundamentals.dll
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\net10.0\CSharpFundamentals.pdb
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net10.0\CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net10.0\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net10.0\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net10.0\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net10.0\CSharpFundamentals.dll
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net10.0\refint\CSharpFundamentals.dll
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net10.0\CSharpFundamentals.pdb
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net10.0\CSharpFundamentals.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net10.0\ref\CSharpFundamentals.dll
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\obj\Debug\net10.0\CSharpFundamentals.sourcelink.json
+C:\Users\HP\source\repos\CSharpFundamentals\CSharpFundamentals\bin\Debug\net10.0\CSharpFundamentals.dll.config

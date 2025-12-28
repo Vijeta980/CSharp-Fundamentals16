@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\CSharp-Fundamentals\CSharp-Fundamentals\obj\Debug\CSharp-Fundamentals.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\CSharp-Fundamentals\CSharp-Fundamentals\obj\Debug\CSharp-Fundamentals.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\CSharp-Fundamentals\CSharp-Fundamentals\bin\Debug\CSharp-Fundamentals.exe.config
-C:\Users\User\source\repos\CSharp-Fundamentals\CSharp-Fundamentals\bin\Debug\CSharp-Fundamentals.exe
-C:\Users\User\source\repos\CSharp-Fundamentals\CSharp-Fundamentals\bin\Debug\CSharp-Fundamentals.pdb
-C:\Users\User\source\repos\CSharp-Fundamentals\CSharp-Fundamentals\obj\Debug\CSharp-Fundamentals.exe
-C:\Users\User\source\repos\CSharp-Fundamentals\CSharp-Fundamentals\obj\Debug\CSharp-Fundamentals.pdb

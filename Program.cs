@@ -19,7 +19,23 @@ namespace CSharp_Fundamentals
             //WhileLoop.loop3();
             //StringBasic.Run();
             //Datetime.Run();
-            Timespan.Run();
+            //Timespan.Run();
+
+            //Person object
+
+            Person person = new Person();
+            person.Name = "Vijeta";
+            person.Age = 22;
+            person.Introduce();
+
+            //Calculator object
+            Calculator calc=new Calculator();
+            Console.WriteLine("Addition: " + calc.Add(10, 5));
+
+            //Customer object
+            Customer customer=new Customer(1, "Eshita");
+            customer.ShowDetails();
+
             Console.ReadLine();
         }
     }

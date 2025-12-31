@@ -1,0 +1,61 @@
+public class Employee{
+public int id{get; set;}
+public string Name{get; set;}
+protected decimal Salary{get; set;}
+
+public void Login(){
+Console.WriteLine("Employee Logged In");
+}
+
+public void Logout(){
+console.WriteLine("Employee Logged Out");
+}
+
+public virtual decimal CalculateBonus(){
+return Salary * 0.10m;
+}
+}
+
+//Derived Class
+
+public class Developer:Employee{
+public string ProgrammingLanguage{get; set;}
+
+public override decimal CalculateBonus(){
+return Salary * 0.20m;
+}
+}
+
+//Derived Class
+
+public class Manager:Employee{
+public int TeamSize{get; set;}
+
+public override decimal CalculateBonus(){
+return Salary * 0.30m + (TeamSize * 100);
+}
+}
+
+
+//Usage Eg
+Employee emp1=new Employee();
+{
+id=1,
+Name="Vijeta",
+Salary=60000m,
+ProgrammingLanguage="C#"
+};
+
+Employee emp2=new Manager;
+id=2,
+Name="Akshata",
+Salary=90000,
+TeamSize=5
+};
+
+Console.WriteLine(emp1.CalculateBonus());
+Console.WriteLine(emp2.CalculateBonus());
+
+}
+}
+

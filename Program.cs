@@ -9,6 +9,7 @@ using CSharp_Fundamentals.PracticeQue1;
 using CSharpFundamentals._07_StringsBasic;
 using System;
 using CSharpFundamentals._08_DateTime;
+using CSharpFundamentals._11_Inheritance;
 
 namespace CSharp_Fundamentals
 {
@@ -23,20 +24,39 @@ namespace CSharp_Fundamentals
 
             //Person object
 
-            Person person = new Person();
-            person.Name = "Vijeta";
-            person.Age = 22;
-            person.Introduce();
+            //Person person = new Person();
+            //person.Name = "Vijeta";
+            //person.Age = 22;
+            //person.Introduce();
 
-            //Calculator object
-            Calculator calc=new Calculator();
-            Console.WriteLine("Addition: " + calc.Add(10, 5));
+            ////Calculator object
+            //Calculator calc=new Calculator();
+            //Console.WriteLine("Addition: " + calc.Add(10, 5));
 
-            //Customer object
-            Customer customer=new Customer(1, "Eshita");
-            customer.ShowDetails();
+            ////Customer object
+            //Customer customer=new Customer(1, "Eshita");
+            //customer.ShowDetails();
 
-            Console.ReadLine();
+            Employee emp1 = new Employee();
+            {
+                id = 1,
+Name = "Vijeta",
+Salary = 60000m,
+ProgrammingLanguage = "C#"
+            }
+            ;
+
+            Employee emp2 = new Manager;
+            id = 2,
+Name = "Akshata",
+Salary = 90000,
+TeamSize = 5
+};
+
+
+        Console.WriteLine(emp1.CalculateBonus());
+Console.WriteLine(emp2.CalculateBonus());
+        Console.ReadLine();
         }
     }
 }

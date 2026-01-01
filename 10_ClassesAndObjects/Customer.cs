@@ -14,7 +14,7 @@ namespace CSharpFundamentals._10_ClassesAndObjects
         }
         public void ShowDetails()
         {
-            Console.writeLine($"Customer ID: {id}, Customer Name: {Name}");
+            Console.WriteLine($"Customer ID: {id}, Customer Name: {Name}");
         }
 
     }

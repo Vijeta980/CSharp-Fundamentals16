@@ -173,23 +173,27 @@
 
 //Intersection.Run();
 
-using CSharpFundamentals.Inheritance;
+//using CSharpFundamentals.Inheritance;
 
-Developer dev = new Developer();
-dev.Name = "Rahul";
-dev.Salary = 60000;
-dev.Technology = "C#";
+//Developer dev = new Developer();
+//dev.Name = "Rahul";
+//dev.Salary = 60000;
+//dev.Technology = "C#";
 
-dev.ShowEmployee();
-dev.ShowDeveloper();
+//dev.ShowEmployee();
+//dev.ShowDeveloper();
 
-Console.WriteLine();
+//Console.WriteLine();
 
-Manager mgr = new Manager();
-mgr.Name = "Anita";
-mgr.Salary = 90000;
-mgr.TeamSize = 8;
+//Manager mgr = new Manager();
+//mgr.Name = "Anita";
+//mgr.Salary = 90000;
+//mgr.TeamSize = 8;
 
-mgr.ShowEmployee();
-mgr.ShowManager();
+//mgr.ShowEmployee();
+//mgr.ShowManager();
+
+using CSharpFundamentals._12_Interfaces;
+
+LooseCoupling.Run();
 Console.ReadLine();

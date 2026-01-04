@@ -196,7 +196,9 @@
 //using CSharpFundamentals._12_Interfaces;
 
 //LooseCoupling.Run();
- using CSharpFundamentals._13_ExceptionHandling;
+ //using CSharpFundamentals._13_ExceptionHandling;
 
-ExceptionHandling.Run();
-Console.ReadLine();
+//ExceptionHandling.Run();
+
+using CSharpFundamentals._14_Polymorphism;
+PaymentDemo.Run();

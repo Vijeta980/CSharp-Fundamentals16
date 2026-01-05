@@ -200,5 +200,9 @@
 
 //ExceptionHandling.Run();
 
-using CSharpFundamentals._14_Polymorphism;
-PaymentDemo.Run();
+//using CSharpFundamentals._14_Polymorphism;
+//PaymentDemo.Run();
+
+
+using CSharpFundamentals.PracticeQue1;
+RevString.Run();

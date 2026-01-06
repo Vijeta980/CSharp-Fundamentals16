@@ -204,5 +204,9 @@
 //PaymentDemo.Run();
 
 
+//using CSharpFundamentals.PracticeQue1;
+//RevString.Run();
+
 using CSharpFundamentals.PracticeQue1;
-RevString.Run();
+PalindromeCheck.Run();
+//CountVowels.Run();

@@ -207,6 +207,9 @@
 //using CSharpFundamentals.PracticeQue1;
 //RevString.Run();
 
-using CSharpFundamentals.PracticeQue1;
-PalindromeCheck.Run();
+//using CSharpFundamentals.PracticeQue1;
+//PalindromeCheck.Run();
 //CountVowels.Run();
+
+using CSharpFundamentals.PracticeQue.PracticeQue;
+CapgQ.Run();

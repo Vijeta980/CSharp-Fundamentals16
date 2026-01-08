@@ -210,7 +210,8 @@
 using CSharpFundamentals.PracticeQue1;
 //PalindromeCheck.Run();
 //CountVowels.Run();
-RemoveDuplicates.Run();
+//RemoveDuplicates.Run();
+MovesZeroes.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

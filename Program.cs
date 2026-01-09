@@ -211,7 +211,8 @@ using CSharpFundamentals.PracticeQue1;
 //PalindromeCheck.Run();
 //CountVowels.Run();
 //RemoveDuplicates.Run();
-MovesZeroes.Run();
+//MovesZeroes.Run();
+twoSum.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

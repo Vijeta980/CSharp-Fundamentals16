@@ -212,7 +212,8 @@ using CSharpFundamentals.PracticeQue1;
 //CountVowels.Run();
 //RemoveDuplicates.Run();
 //MovesZeroes.Run();
-twoSum.Run();
+//twoSum.Run();
+checkDuplicate.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

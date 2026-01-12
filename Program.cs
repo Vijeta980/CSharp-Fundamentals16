@@ -213,7 +213,8 @@ using CSharpFundamentals.PracticeQue1;
 //RemoveDuplicates.Run();
 //MovesZeroes.Run();
 //twoSum.Run();
-checkDuplicate.Run();
+//checkDuplicate.Run();
+BestTimeToBuyAndSell.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

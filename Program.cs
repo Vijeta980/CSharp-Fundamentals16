@@ -216,7 +216,8 @@ using CSharpFundamentals.PracticeQue1;
 //checkDuplicate.Run();
 //BestTimeToBuyAndSell.Run();
 //Kadane.Run();
-ExcelSheet.Run();
+//ExcelSheet.Run();
+ValidParenthesis.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

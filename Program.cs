@@ -218,7 +218,8 @@ using CSharpFundamentals.PracticeQue1;
 //Kadane.Run();
 //ExcelSheet.Run();
 //ValidParenthesis.Run();
-ValidAnagram.Run();
+//ValidAnagram.Run();
+XORQue.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

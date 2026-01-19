@@ -219,7 +219,8 @@ using CSharpFundamentals.PracticeQue1;
 //ExcelSheet.Run();
 //ValidParenthesis.Run();
 //ValidAnagram.Run();
-XORQue.Run();
+//XORQue.Run();
+BinarySearch.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

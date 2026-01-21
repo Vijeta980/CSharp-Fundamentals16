@@ -220,7 +220,8 @@ using CSharpFundamentals.PracticeQue1;
 //ValidParenthesis.Run();
 //ValidAnagram.Run();
 //XORQue.Run();
-BinarySearch.Run();
+//BinarySearch.Run();
+FirstUniqueChar.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

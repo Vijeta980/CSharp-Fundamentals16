@@ -221,7 +221,8 @@ using CSharpFundamentals.PracticeQue1;
 //ValidAnagram.Run();
 //XORQue.Run();
 //BinarySearch.Run();
-FirstUniqueChar.Run();
+//FirstUniqueChar.Run();
+Pascal_sTriangle.Run(args);
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

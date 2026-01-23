@@ -222,7 +222,8 @@ using CSharpFundamentals.PracticeQue1;
 //XORQue.Run();
 //BinarySearch.Run();
 //FirstUniqueChar.Run();
-Pascal_sTriangle.Run(args);
+//Pascal_sTriangle.Run(args);
+MissingNumber.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

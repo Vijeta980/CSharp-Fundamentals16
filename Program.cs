@@ -223,7 +223,8 @@ using CSharpFundamentals.PracticeQue1;
 //BinarySearch.Run();
 //FirstUniqueChar.Run();
 //Pascal_sTriangle.Run(args);
-MissingNumber.Run();
+//MissingNumber.Run();
+BestTimeToBuyAndSell2.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

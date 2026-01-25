@@ -224,7 +224,8 @@ using CSharpFundamentals.PracticeQue1;
 //FirstUniqueChar.Run();
 //Pascal_sTriangle.Run(args);
 //MissingNumber.Run();
-BestTimeToBuyAndSell2.Run();
+//BestTimeToBuyAndSell2.Run();
+MajorityElement.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

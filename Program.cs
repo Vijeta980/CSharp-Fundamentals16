@@ -226,7 +226,8 @@ using CSharpFundamentals.PracticeQue1;
 //MissingNumber.Run();
 //BestTimeToBuyAndSell2.Run();
 //MajorityElement.Run();
-ReverseString.Run();
+//ReverseString.Run();
+FirstUniqueCharacterInAString.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

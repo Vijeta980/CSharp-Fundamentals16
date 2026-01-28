@@ -227,7 +227,8 @@ using CSharpFundamentals.PracticeQue1;
 //BestTimeToBuyAndSell2.Run();
 //MajorityElement.Run();
 //ReverseString.Run();
-FirstUniqueCharacterInAString.Run();
+//FirstUniqueCharacterInAString.Run();
+MaxAverageSum.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

@@ -228,7 +228,8 @@ using CSharpFundamentals.PracticeQue1;
 //MajorityElement.Run();
 //ReverseString.Run();
 //FirstUniqueCharacterInAString.Run();
-MaxAverageSum.Run();
+//MaxAverageSum.Run();
+QueueMaxSlidingWindow.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

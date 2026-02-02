@@ -231,7 +231,7 @@ using CSharpFundamentals.PracticeQue1;
 //MaxAverageSum.Run();
 //QueueMaxSlidingWindow.Run();
 //RotateArray.Run();
-MajorityElement_Voting_.Run();
-
+//MajorityElement_Voting_.Run();
+MovesZeroesAtEnd.Run();
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

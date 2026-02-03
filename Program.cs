@@ -232,6 +232,7 @@ using CSharpFundamentals.PracticeQue1;
 //QueueMaxSlidingWindow.Run();
 //RotateArray.Run();
 //MajorityElement_Voting_.Run();
-MovesZeroesAtEnd.Run();
+//MovesZeroesAtEnd.Run();
+DiamondPattern.Run();
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

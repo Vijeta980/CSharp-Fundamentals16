@@ -196,7 +196,7 @@
 //using CSharpFundamentals._12_Interfaces;
 
 //LooseCoupling.Run();
- //using CSharpFundamentals._13_ExceptionHandling;
+//using CSharpFundamentals._13_ExceptionHandling;
 
 //ExceptionHandling.Run();
 
@@ -207,6 +207,7 @@
 //using CSharpFundamentals.PracticeQue1;
 //RevString.Run();
 
+using CSharpFundamentals;
 using CSharpFundamentals.PracticeQue1;
 //PalindromeCheck.Run();
 //CountVowels.Run();
@@ -233,6 +234,7 @@ using CSharpFundamentals.PracticeQue1;
 //RotateArray.Run();
 //MajorityElement_Voting_.Run();
 //MovesZeroesAtEnd.Run();
-DiamondPattern.Run();
+//DiamondPattern.Run();
+PivotIndex.Run();
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

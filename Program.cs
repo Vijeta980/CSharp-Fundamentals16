@@ -235,6 +235,7 @@ using CSharpFundamentals.PracticeQue1;
 //MajorityElement_Voting_.Run();
 //MovesZeroesAtEnd.Run();
 //DiamondPattern.Run();
-PivotIndex.Run();
+//PivotIndex.Run();
+FirstOccurrence.Run();
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

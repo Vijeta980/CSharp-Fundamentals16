@@ -236,6 +236,7 @@ using CSharpFundamentals.PracticeQue1;
 //MovesZeroesAtEnd.Run();
 //DiamondPattern.Run();
 //PivotIndex.Run();
-FirstOccurrence.Run();
+//FirstOccurrence.Run();
+LongestCommonPrefix.Run();
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

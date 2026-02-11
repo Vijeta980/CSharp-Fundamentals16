@@ -239,6 +239,7 @@ using CSharpFundamentals.PracticeQue1;
 //FirstOccurrence.Run();
 //LongestCommonPrefix.Run();
 //LengthofLastWord.Run();
-LargestNumber.Run();
+//LargestNumber.Run();
+SingleElementInSortedArray.Run();
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

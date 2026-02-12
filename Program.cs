@@ -240,6 +240,7 @@ using CSharpFundamentals.PracticeQue1;
 //LongestCommonPrefix.Run();
 //LengthofLastWord.Run();
 //LargestNumber.Run();
-SingleElementInSortedArray.Run();
+//SingleElementInSortedArray.Run();
+AddBinary.Run();
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

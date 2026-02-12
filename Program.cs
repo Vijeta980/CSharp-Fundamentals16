@@ -241,6 +241,7 @@ using CSharpFundamentals.PracticeQue1;
 //LengthofLastWord.Run();
 //LargestNumber.Run();
 //SingleElementInSortedArray.Run();
-AddBinary.Run();
+//AddBinary.Run();
+ArrayRotate.Run();
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

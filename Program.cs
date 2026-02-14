@@ -243,6 +243,7 @@ using CSharpFundamentals.PracticeQue1;
 //SingleElementInSortedArray.Run();
 //AddBinary.Run();
 //ArrayRotate.Run();
-SlidingWindowMaximum.Run();
+//SlidingWindowMaximum.Run();
+TwoSum.Run();
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

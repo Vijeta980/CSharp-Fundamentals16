@@ -244,6 +244,8 @@ using CSharpFundamentals.PracticeQue1;
 //AddBinary.Run();
 //ArrayRotate.Run();
 //SlidingWindowMaximum.Run();
-TwoSum.Run();
+//TwoSum.Run();
+SpiralMatrix.Run();
+
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

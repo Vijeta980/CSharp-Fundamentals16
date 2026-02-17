@@ -246,7 +246,8 @@ using CSharpFundamentals.PracticeQue1;
 //SlidingWindowMaximum.Run();
 //TwoSum.Run();
 //SpiralMatrix.Run();
-RotateString.Run();
+//RotateString.Run();
+ProductExceptSelfMethod.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

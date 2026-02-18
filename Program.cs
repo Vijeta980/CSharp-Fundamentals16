@@ -247,7 +247,8 @@ using CSharpFundamentals.PracticeQue1;
 //TwoSum.Run();
 //SpiralMatrix.Run();
 //RotateString.Run();
-ProductExceptSelfMethod.Run();
+//ProductExceptSelfMethod.Run();
+RevNum.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

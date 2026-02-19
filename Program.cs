@@ -248,7 +248,8 @@ using CSharpFundamentals.PracticeQue1;
 //SpiralMatrix.Run();
 //RotateString.Run();
 //ProductExceptSelfMethod.Run();
-RevNum.Run();
+//RevNum.Run();
+TopKFreqElement.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

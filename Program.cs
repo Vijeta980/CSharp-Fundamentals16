@@ -252,7 +252,8 @@ using CSharpFundamentals.PracticeQue1;
 //TopKFreqElement.Run();
 //ContainerWithMostWater.Run();
 //LengthOfLongestSubstring.Run();
-LargestRectangleHistogram.Run();
+//LargestRectangleHistogram.Run();
+NextGreaterElement.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();

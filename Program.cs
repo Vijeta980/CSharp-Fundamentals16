@@ -253,7 +253,8 @@ using CSharpFundamentals.PracticeQue1;
 //ContainerWithMostWater.Run();
 //LengthOfLongestSubstring.Run();
 //LargestRectangleHistogram.Run();
-NextGreaterElement.Run();
+//NextGreaterElement.Run();
+TrappingRainWater.Run();
 
 //using CSharpFundamentals.PracticeQue.PracticeQue;
 //CapgQ.Run();
